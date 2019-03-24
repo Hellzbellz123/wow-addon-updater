@@ -1,3 +1,5 @@
+I Want to work on changing this to C# and developing it past where Kuhnertdm managed, we shall see how far i actually get cause im very new to coding
+
 # wow-addon-updater - Now supports Tukui!
 
 This utility provides an alternative to the Twitch/Curse client for management and updating of addons for World of Warcraft. The Twitch/Curse client is rather bloated and buggy, and comes with many features that most users will not ever use in the first place. This utility, however, is lightweight and makes it very easy to manage which addons are being updated, and to update them just by running a python script.
